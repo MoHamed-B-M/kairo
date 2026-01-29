@@ -53,7 +53,7 @@ It follows a **Material Minimalist** design philosophy—distraction-free, aesth
 
 1.  **Clone the repository**
     ```bash
-    git clone https://github.com/yourusername/kairo.git
+    git clone https://github.com/MoHamed-B-M/kairo.git
     cd kairo
     ```
 
